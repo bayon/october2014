@@ -1,0 +1,8 @@
+GENERAL:
+ssh -l <username> <location>
+
+itc:
+bforte@development.smoothstone.com
+
+maxxpoint:
+maxxpointdev.smoothstone.com
